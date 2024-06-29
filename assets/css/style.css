@@ -611,7 +611,7 @@ section {
   align-items: center;
 }
 .bxl-dribbble::before {
-  content: url(/assets/img/crane-truck.png) !important;
+  content: url(/gundogdu-vinc/assets/img/crane-truck.png) !important;
   display: inline-block;
   transform: scale(0.5); /* İkonun boyutunu %50 küçültür */
 }
