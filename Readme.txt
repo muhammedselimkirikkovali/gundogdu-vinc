@@ -1,0 +1,1 @@
+Gundogdu Vinc Ve Platform
